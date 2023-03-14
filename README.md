@@ -1,5 +1,5 @@
 Sample project for Git learning
-
+no text
 1. Git process
 2. Git commands
 3. Best practises
